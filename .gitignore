@@ -1,0 +1,44 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+dist/
+build/
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDEs
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Audio files (if large and generated)
+*.wav
+*.mp3
+*.flac
+
+# Data folders (if large)
+data/
+datasets/
+
+# Node (if applicable)
+node_modules/
+
+# Misc
+.cache/
