@@ -24,5 +24,6 @@ alongside the possibilities of developing the application even further.
 # Images
 
 ![1st image](images/sc-sh-1.png)
+
 ![2nd image](images/sc-sh-2.png)
 ![3rd image](images/sc-sh-3.png)
